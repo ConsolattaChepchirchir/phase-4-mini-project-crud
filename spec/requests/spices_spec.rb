@@ -38,6 +38,7 @@ RSpec.describe "Spices", type: :request do
           notes: "Allspice notes",
           rating: 3.5
         },
+
         {
           id: a_kind_of(Integer),
           title: "Caraway Seeds",
